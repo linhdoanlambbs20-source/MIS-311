@@ -48,12 +48,14 @@ For total_price, the average transaction value was approximately 127.04. The min
 ## Visualisations
 
 ### Total Sales by Product Category
+<img width="483" height="301" alt="Total sale by Product Category" src="https://github.com/user-attachments/assets/b94aae31-d71d-4536-9f9f-c7f95a2a7ed2" />
 
-![Total Sales by Product Category](https://github.com/user-attachments/assets/a0edb976-bfb3-4ab5-bdc5-a55af809199a)
 
 ### Total Sales by City
+<img width="486" height="300" alt="Total Sales by City" src="https://github.com/user-attachments/assets/de59e9c8-f089-4b4c-a57c-e081d5320076" />
 
-![Total Sales by City](https://github.com/user-attachments/assets/169404dc-0cd4-469f-b348-b67ab4b2a321)
+
+
 ---
 
 ## Key Insights
