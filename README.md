@@ -45,7 +45,7 @@ For total_price, the average transaction value was approximately 127.04. The min
 
 ---
 
-## Visualisations
+## VisualisationsS
 
 ### Total Sales by Product Category
 
